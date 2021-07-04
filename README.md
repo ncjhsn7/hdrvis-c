@@ -1,2 +1,4 @@
 # hdrvis-c
-high dynamic range
+_High Dynamic Range_ with C language
+
+_Credits: Nicolas - Marcelo Cohen & Alexandre Agustini_
