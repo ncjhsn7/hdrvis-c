@@ -1,0 +1,3 @@
+/Users/nicolaspietro/Desktop/folders/baixo-nivel/t1-Nicolas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nicolaspietro/Desktop/folders/baixo-nivel/t1-Nicolas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicolaspietro/Desktop/folders/baixo-nivel/t1-Nicolas/cmake-build-debug/CMakeFiles/loader.dir

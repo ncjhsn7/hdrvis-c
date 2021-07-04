@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolaspietro/Desktop/folders/baixo-nivel/t1-Nicolas/main.c
+math.h
+-
+string.h
+-
+opengl.h
+/Users/nicolaspietro/Desktop/folders/baixo-nivel/t1-Nicolas/opengl.h
+
+/Users/nicolaspietro/Desktop/folders/baixo-nivel/t1-Nicolas/opengl.h
+GLUT/glut.h
+-
+GL/glut.h
+-
+stdio.h
+-
+stdlib.h
+-
+
